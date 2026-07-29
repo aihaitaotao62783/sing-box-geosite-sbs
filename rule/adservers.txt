@@ -9,6 +9,37 @@
 !
 !
 !
+||nhgmymxth.com^
+||fqrukpjaahukp.com^
+||yjibimcrcylrg.website^
+||xwdsofoflwimy.website^
+||xl-ads.com^
+||gamengirls.com^$all
+||humiliatedaboveboardwho.com^
+||egmoytcwvwfnc.website^
+||cno.jerkmate.net^$all
+||aifpleasurebeh.org^
+||moonlighthathel.org^
+||trustkiwi.com^
+||arx8x.net^$all
+||mercu-wgp.com^$all
+||rvmessage.online^$third-party
+||vahqmyowjp.com^
+||fnozzitywh.com^
+||jdvzwpsfnjphs.com^
+||elogecoptersabacot.cfd^
+||whatdidheseehe.com^
+||evolutionadv.it^
+||dzqxwy.com^$all
+||ormatenqron.com^$all
+||pulse.neurostreamlink10.cfd^$all
+||glidersreplume.qpon^
+||hestherchiffer.com^
+||cdn.testdomain12345xyz.com^
+||kyemnphpymnyv.website^
+||funny-tooth.com^
+||prizefamily.com^
+||vivotzrigtry.com^
 ||sainwertapr.com^
 ||fluxivetsknummus.cyou^
 ||qxif497o6q61e2nep.cyou^
@@ -64,7 +95,7 @@
 ||gresrv.com^
 ||srvgl.com^
 ||amkcuwli.in^
-||aboveboardcomplicate.com^
+||aboveboardcomplicate.com^$all
 ||abjectionfreedpaying.com^
 ||xml.srvqk.com^
 ||uproestup.sbs^$all
@@ -73,7 +104,6 @@
 ||lustygg.com^$all
 ||fetchperiodic.com^
 ||betus.com.pa^$all
-||aboveboardcomplicate.com^
 ||as-pet.ams3.cdn.digitaloceanspaces.com^$all
 ||cdclub.net^
 ||lib-wp.dev^
@@ -968,6 +998,11 @@
 ||vipads.live^
 !+ NOT_OPTIMIZED
 ||api.smartnews-ads.com^
+!
+! clickaine.com
+/^88\.208\.22\.[1234]:/$network
+/^88\.208\.22\.[1234]$/
+!
 ! Ads in emails
 ad.broadstreetads.com
 ! Required for apps, because on some sites it's not blocked when there is "$third-party" modifier
